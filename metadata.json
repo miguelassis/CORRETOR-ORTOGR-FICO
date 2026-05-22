@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Corretor Mascote",
+  "description": "Corretor ortográfico inteligente em tempo real com mascote robô interativo, assistente de voz multilingue, e sincronização automática em nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
